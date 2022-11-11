@@ -1,7 +1,7 @@
 👋 Hello. How can I help you?
 
-This is my default answer on the internal chat of the company I work for. Solving problems and explaining the solution in simple words and common life metaphors is what brought me aceptance and authoritative presence in my circles.
-I will try to use these skills here, trying to explain complex things in beginner's language.
+This is my default answer on the internal chat of the company I work for. Solving problems and explaining the solution in simple words, using common life metaphors is what brought me aceptance and authoritative presence.
+I pretend using these skills here, trying to explain complex things in beginner's language.
 
 - 👀 I’m interested in building up my network an security skills. 
 - 🌱 I’m currently learning micro services with Kubernetes.
